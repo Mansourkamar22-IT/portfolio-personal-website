@@ -1,0 +1,45 @@
+dessiner un diagramme de cas d'utilisation Use pour le système que vous décrivez, je vais d'abord clarifier les éléments clés du système que vous avez mentionnés. Voici un résumé des fonctionnalités et des acteurs impliqués, puis je vais vous guider dans la création d'un diagramme UML.
+
+Acteurs principaux :
+1. Bénévole : Une personne qui participe à des activités caritatives et aide dans les projets.
+2. Donateur : Une personne qui effectue des dons financiers pour soutenir des projets caritatifs.
+3. Administrateur : Responsable de la gestion des projets, de la collecte de fonds, et de la supervision générale.
+4. Bénéficiaire : Une personne qui reçoit de l'aide via les différents programmes caritatifs.
+5. Législateur : Une personne qui reçoit des rapports périodiques sur l'utilisation des fonds.
+6. Site Web (Système) : Il permet la gestion des projets, la collecte de dons, l'inscription des bénévoles, la publication des histoires, etc.
+
+Fonctionnalités principales du système :
+1. Gestion des projets communautaires : Créer, suivre et gérer des projets comme la construction d'une école ou d'un hôpital.
+2. Collecte de fonds : Les donateurs peuvent faire des dons et suivre l'évolution des projets grâce à un tableau de bord.
+ 3. Cours en ligne gratuits : Fournir des formations gratuites dans des domaines comme l'éducation financière, les soins de santé, etc.
+4. Ateliers de compétences personnelles : Organisation d'ateliers pour aider à responsabiliser les individus.
+5. Suivi des dons et des contributions : Suivi de la contribution des donateurs et des bénévoles avec des certificats.
+6. Histoires inspirantes (Raw Stories) : Une section pour afficher des histoires inspirantes sur les projets et les personnes soutenues.
+7. Transparence : Les législateurs reçoivent des rapports sur l'utilisation des fonds.
+
+Diagramme de cas d'utilisation (UML)
+
+Voici les cas d'utilisation en UML que vous pouvez dessiner pour ce système :
+
+1. Bénévole :
+   - Participer à des ateliers
+   - Suivre un cours en ligne
+   - Fournir des certificats de contribution
+   - Aider à la gestion de projets
+
+2. Donateur :
+   - Faire un don
+   - Suivre l'évolution des projets
+   - Recevoir un certificat de contribution
+
+3. Administrateur :
+   - Gérer les projets communautaires (création, suivi, mise à jour)
+   - Gérer les dons
+   - Suivre les bénévoles
+   - Gérer les rapports de transparence
+   - Publier des histoires inspirantes
+
+4. Bénéficiaire :
+   - Participer aux formations
+   - Suivre des cours en ligne
+   
